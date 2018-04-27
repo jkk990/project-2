@@ -22,4 +22,31 @@
 .breakfast  {
   background-image: url("../mpft-ip/ip2/assets/foodtop/breakfast.jpg");
   height: 50px;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.lunch  {
+  background-image: url("../mpft-ip/ip2/assets/foodtop/lunch.jpg");
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: white;
+}
+
+.hp  {
+  margin-right: 0;
+  padding: 0;
+}
+
+.dinner  {
+  background-image: url("../mpft-ip/ip2/assets/foodtop/dinner.jpg");
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
 }
