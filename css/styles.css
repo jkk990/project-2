@@ -84,3 +84,17 @@
 .h1  {
   color: red;
 }
+
+.email  {
+  background-image: url("../mpft-ip/ip2/assets/backgrounds/subscribe.jpg");
+  text-align: center;
+}
+
+.eh1  {
+  color: white;
+  text-align: center;
+}
+
+.email button  {
+  background-color: #e74c30; 
+}
