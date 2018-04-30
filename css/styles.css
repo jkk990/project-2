@@ -96,5 +96,11 @@
 }
 
 .email button  {
-  background-color: #e74c30; 
+  background-color: #e74c30;
+}
+
+.link  {
+  background-color: #e74c30;
+  text-align: center;
+  color: white;
 }
